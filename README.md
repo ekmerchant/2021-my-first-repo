@@ -4,3 +4,6 @@ Hello, git!
 
 Here is another change that I am making.
 And another one!
+
+This is a great sentence.
+This is a big mistake.
